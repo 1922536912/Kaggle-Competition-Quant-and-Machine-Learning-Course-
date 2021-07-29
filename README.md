@@ -1,5 +1,4 @@
-# Welcome to Kaggle Competition - Quant & Machine Learning Course 
-# Course Agenda
+# Welcome to Kaggle Competition - Quant & Machine Learning Course
 
 
 ## Part I: Machine Learning Essentials
