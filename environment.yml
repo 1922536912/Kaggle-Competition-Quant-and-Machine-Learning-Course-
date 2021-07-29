@@ -1,0 +1,24 @@
+name: quant-course
+channels:
+- conda-forge
+dependencies:
+- python>=3.8
+- pandas
+- numpy
+- matplotlib
+- fastparquet
+- jupyter
+- ipykernel
+- tensorflow
+- scikit-learn
+- scipy
+- seaborn
+- keras
+- xgboost
+- jupyterlab
+- category_encoders
+- mlxtend
+- lightgbm
+- graphviz
+- plotly
+
