@@ -1,2 +1,4 @@
 optiver-realized-volatility-prediction/
 notebooks_pending/
+.DS_Store
+.gitignore
