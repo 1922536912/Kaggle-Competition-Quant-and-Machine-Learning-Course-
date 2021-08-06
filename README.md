@@ -19,7 +19,7 @@
 	- [Kaggle Notebook #2: EDA tutorial for competition data](https://www.kaggle.com/gunesevitan/optiver-realized-volatility-prediction-eda)
 - 2.2 Feature Engineering
 	- [Slides](https://docs.google.com/presentation/d/1R8DDZf6qIG2eKTtfGcW6kph-fpTm6m3NyQkYVNk77rg/edit?usp=sharing)
-	- [Python Tutorial #4: Feature engineering]
+	- [Python Tutorial #4: Feature engineering](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_4_feature_engineering.ipynb)
 
 
 ### Week 3 (Aug 14-15)
