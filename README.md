@@ -17,6 +17,7 @@
 - 2.1 EDA
 	- [Slides](https://docs.google.com/presentation/d/13gwvLolY0Ug_WKROeVYpHpblWhNhvmj3DskSxsu3Ta0/edit?usp=sharing)
 	- [Kaggle Notebook #2: EDA tutorial for competition data](https://www.kaggle.com/gunesevitan/optiver-realized-volatility-prediction-eda)
+	- [Key concepts in machine learning](https://towardsdatascience.com/machine-learning-basics-part-1-a36d38c7916)
 - 2.2 Feature Engineering
 	- [Slides](https://docs.google.com/presentation/d/1R8DDZf6qIG2eKTtfGcW6kph-fpTm6m3NyQkYVNk77rg/edit?usp=sharing)
 	- [Python Tutorial #4: Feature engineering](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_4_feature_engineering.ipynb)
