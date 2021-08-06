@@ -23,34 +23,33 @@
 
 
 ### Week 3 (Aug 14-15)
-- 3.1 Cross validation, grid search & key machine learning models (ml2)
-- 3.2 Gradient boost models (Xgboost, LightGBM etc) (ml3)
-
-**Milestone #1: Submission using a basic machine learning model**
+- 3.1 Cross validation, grid search for parameter selection
+- 3.2 Key machine learning models: Linear regression, Ridge, Lasso models
 
 ### Week 4 (Aug 21-22)
-- 4.1 Competition data LightGBM notebook
-- 4.2 AdaBoost model ensemble
+- 4.1 Key machine learning models: Tree based models
+- 4.2 Gradient boost models: Xgboost, LightGBM
 
-**Milestone #2: Submission using advanced ensembled machine learning models**
+### Week 5 (Aug 28-29)
+- 5.1 Competition data LightGBM notebook
+- 5.2 Pipeline
+
+**Milestone #1: Submission a machine learning model**
 
 
 ## Part II: Advanced Modeling and Techniques
 
-### Week 5 (Aug 28-29)
-- 5.1 Deep neural network
-- 5.2 Competition NN stock embedding notebook
 ### Week 6 (Sep 4-5)
-- 6.1 Deep neural network - LSTM
-- 6.2 Deep neural network - Autoencoder
+- 6.1 Deep neural network
+- 6.2 Competition NN stock embedding notebook
 ### Week 7 (Sep 11-12) - or choose topics accordingly 
-- 7.1 Feature selection - embedded feature
-- 7.2 Feature selection - filtering method
+- 7.1 Deep neural network - LSTM
+- 7.2 Deep neural network - Autoencoder
 ### Week 8 (Sep 18-19) - or choose topics accordingly
-- 8.1 Feature selection - PCA
-- 8.2 Feature selection - wrapper method
+- 8.1 Feature selection - embedded feature
+- 8.2 Feature selection - filtering method
 ### Week 9 (Sep 25-26) - or choose topics accordingly
-- 9.1 Final tuning
-- 9.2 Final submission
+- 9.1 Feature selection - PCA
+- 9.2 Feature selection - wrapper method
 
-**Milestone #3: Final Submission on Sep 26**
+**Milestone #2: Final Submission on Sep 26**
