@@ -25,7 +25,9 @@
 
 ### Week 3 (Aug 14-15)
 - 3.1 Cross validation, grid search for parameter selection
+	- [Python Tutorial #5: Cross validation](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_5_cross_validation.ipynb) 
 - 3.2 Key machine learning models: Linear regression, Ridge, Lasso models
+	- [Python Tutorial #6: Linear models](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_6_linear%20models.ipynb)
 
 ### Week 4 (Aug 21-22)
 - 4.1 Key machine learning models: Tree based models
