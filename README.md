@@ -32,6 +32,7 @@
 ### Week 4 (Aug 21-22)
 - 4.1 Key machine learning models: Tree based models
 	- [Python Tutorial #7: Decision Trees](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_7_decision_tree.ipynb)
+	- [Gini imperity in decision tree CART algorithm](https://victorzhou.com/blog/gini-impurity/)
 - 4.2 Gradient boost models: Xgboost, LightGBM
 	- [Python Tutorial #8: Xgboost & LightGBM](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_8_xgboost_LightGBM.ipynb)
 
