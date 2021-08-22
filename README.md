@@ -35,6 +35,7 @@
 	- [Gini impurity in decision tree CART algorithm](https://victorzhou.com/blog/gini-impurity/)
 - 4.2 Gradient boost models: Xgboost, LightGBM
 	- [Python Tutorial #8: Xgboost & LightGBM](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_8_xgboost_LightGBM.ipynb)
+	- [Gradient boosting explained](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
 
 ### Week 5 (Aug 28-29)
 - 5.1 Competition data LightGBM notebook
