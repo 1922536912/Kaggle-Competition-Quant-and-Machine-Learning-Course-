@@ -39,7 +39,7 @@
 
 ### Week 5 (Aug 28-29)
 - 5.1 Competition data LightGBM notebook part 1
-	- [Kaggle Notebook #3: LightGBM with optimized params](https://www.kaggle.com/felipefonte99/optiver-lgb-with-optimized-params)
+	- [Kaggle Notebook #3: LightGBM with optimized params](https://www.kaggle.com/tommy1028/lightgbm-starter-with-feature-engineering-idea)
 - 5.2 Competition data LightGBM notebook part 2
 
 **Milestone #1: Submission a machine learning model**
