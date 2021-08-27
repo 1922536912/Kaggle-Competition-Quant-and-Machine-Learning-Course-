@@ -38,9 +38,11 @@
 	- [Gradient boosting explained](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
 
 ### Week 5 (Aug 28-29)
-- 5.1 Competition data LightGBM notebook part 1
-	- [Kaggle Notebook #3: LightGBM with optimized params](https://www.kaggle.com/tommy1028/lightgbm-starter-with-feature-engineering-idea)
-- 5.2 Competition data LightGBM notebook part 2
+- 5.1 Competition data LightGBM notebook
+	- [Kaggle Notebook #3: Feature engineering and LightGBM](https://www.kaggle.com/tommy1028/lightgbm-starter-with-feature-engineering-idea)
+- 5.2 Improving performance by stacking multiple ML models together
+	- [Kaggle Notebook #4: LightGBM with optimized params](https://www.kaggle.com/felipefonte99/optiver-lgb-with-optimized-params)
+	- [Python Tutorial #9: Stacking multiple ML models](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_9_stacking_models.ipynb)
 
 **Milestone #1: Submission a machine learning model**
 
