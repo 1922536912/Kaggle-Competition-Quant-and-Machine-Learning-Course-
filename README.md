@@ -51,15 +51,15 @@
 
 ### Week 6 (Sep 4-5)
 - 6.1 Deep neural network
+	- [Slides](https://docs.google.com/presentation/d/1XcIfz7TBiMcuJSdHLzdzekB-GxCbHLu9V01tM3H9PFU/edit#slide=id.p)
 - 6.2 Competition NN stock embedding notebook
-### Week 7 (Sep 11-12) - or choose topics accordingly 
-- 7.1 Deep neural network - LSTM
-- 7.2 Deep neural network - Autoencoder
-### Week 8 (Sep 18-19) - or choose topics accordingly
-- 8.1 Feature selection - embedded feature
-- 8.2 Feature selection - filtering method
-### Week 9 (Sep 25-26) - or choose topics accordingly
-- 9.1 Feature selection - PCA
-- 9.2 Feature selection - wrapper method
+	- [Strategy to win this Kaggle competition](https://docs.google.com/presentation/d/10Bv9fKUyFlGtV0pw07VUZPJElguDjxDIvVObzXDzaRA/edit#slide=id.gec9923c869_0_0)
+### Week 7 (Sep 11-12)
+- 7.1 Combine ML models via ML model
+- 7.2 Combine ML models via optimization
+### Week 8 (Sep 18-19)
+- 8.1 Deep neural network - LSTM
+- 8.2 LightGBM parameter tuning
+### Week 9 (Sep 25-26) - team project Q&A
 
 **Milestone #2: Final Submission on Sep 26**
