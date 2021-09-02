@@ -52,7 +52,10 @@
 ### Week 6 (Sep 4-5)
 - 6.1 Deep neural network
 	- [Slides](https://docs.google.com/presentation/d/1XcIfz7TBiMcuJSdHLzdzekB-GxCbHLu9V01tM3H9PFU/edit#slide=id.p)
+	- [Python Tutorial #10: Deep NN](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_10_deep_NN.ipynb)
 - 6.2 Competition NN stock embedding notebook
+	- [Kaggle Notebook #5: NN start with stock embedding](https://www.kaggle.com/lucasmorin/tf-keras-nn-with-stock-embedding)
+	- [Kaggle Notebook #6: NN + LightGBM](https://www.kaggle.com/mayangrui/lgbm-ffnn)
 	- [Strategy to win this Kaggle competition](https://docs.google.com/presentation/d/10Bv9fKUyFlGtV0pw07VUZPJElguDjxDIvVObzXDzaRA/edit#slide=id.gec9923c869_0_0)
 ### Week 7 (Sep 11-12)
 - 7.1 Combine ML models via ML model
