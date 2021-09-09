@@ -58,8 +58,11 @@
 	- [Strategy to win this Kaggle competition](https://docs.google.com/presentation/d/10Bv9fKUyFlGtV0pw07VUZPJElguDjxDIvVObzXDzaRA/edit#slide=id.gec9923c869_0_0)
 ### Week 7 (Sep 11-12)
 - 7.1 Combine ML models via ML model
+	- [Slides](https://docs.google.com/presentation/d/1DBp7sNM__CKd38C6QdATjQhdj9lK5DD6UkZqx2FZ7gI/edit#slide=id.gebaeaeb46d_0_39)
+	- [Python Tutorial #11: Combine models by ML]
 	- [Kaggle Notebook #6: NN + LightGBM](https://www.kaggle.com/mayangrui/lgbm-ffnn)
-- 7.2 Combine ML models via optimization
+- 7.2 Combine ML models via weighted average
+	- [Python Tutorial #12: Combine models by weighted average]
 ### Week 8 (Sep 18-19)
 - 8.1 Deep neural network - LSTM
 - 8.2 LightGBM parameter tuning
