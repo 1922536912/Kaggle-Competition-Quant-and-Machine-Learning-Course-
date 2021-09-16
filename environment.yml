@@ -4,13 +4,14 @@ channels:
 dependencies:
 - python>=3.8
 - pandas
-- numpy
+- pip
+- numpy=1.19
 - matplotlib
 - fastparquet
 - jupyter
 - ipykernel
 - tensorflow
-- scikit-learn
+- scikit-learn=0.23.1
 - scipy
 - seaborn
 - keras
@@ -21,4 +22,10 @@ dependencies:
 - lightgbm
 - graphviz
 - plotly
+- tqdm
+- shap
+- bayesian-optimization
+- scikit-optimize
+
+
 
