@@ -65,7 +65,11 @@
 	- [Python Tutorial #12: Combine models by weighted average](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_12_combine_models_by_weighted_average.ipynb)
 ### Week 8 (Sep 18-19)
 - 8.1 Deep neural network - LSTM
-- 8.2 LightGBM parameter tuning
+	- [Python Tutorial #13: LSTM](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_13_LSTM.ipynb)Data for the above notebook downloaded from [here](https://www.kaggle.com/c/santander-customer-transaction-prediction/data)
+	- [LSTM details explained](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- 8.2 Hyper-parameter tuning using Bayesian Optimization
+	- [Python Tutorial #14: LightGBM hyper-params tuning using Bayesian Optimization](https://github.com/amenda860111/Kaggle-Competition-Quant-and-Machine-Learning-Course-/blob/main/notebooks/tutorial_14_tuning%20hyper%20params%20Bayesian%20Optimization.ipynb)
+	- [Bayesian Optimization explained](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 ### Week 9 (Sep 25-26) - team project Q&A
 
 **Milestone #2: Final Submission on Sep 26**
